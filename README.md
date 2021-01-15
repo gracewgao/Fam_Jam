@@ -6,6 +6,13 @@ FamJam is an Android app that helps families, roommates - **anyone who lives tog
 
 **1st Place at Hack the Cloud**
 
+### Technologies
+- Android Studio
+- Java
+- Android XML
+- Firebase Real-time Database
+- Google Authentication
+
 ### Quick Preview
 Here's a glance at how it looks:<br /><br />
 <img src="screenshots/login.jpg" alt="Login Screenshot" width="200px"/>
